@@ -12,7 +12,7 @@ import { lateinit } from 'lateinit'
 
 class Example {}
 
-const example = lateinit<Example>()
+let example = lateinit<Example>()
 ```
 
 ## Licence
