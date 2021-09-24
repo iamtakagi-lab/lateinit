@@ -1,0 +1,25 @@
+{
+  "name": "lateinit",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamtakagi/lateinit.git"
+  },
+  "keywords": [
+    "lateinit"
+  ],
+  "homepage": "https://github.com/iamtakagi/lateinit",
+  "bugs": {
+    "url": "https://github.com/iamtakagi/lateinit/issues"
+  },
+  "author": "iamtakagi",
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
