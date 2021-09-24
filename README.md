@@ -14,3 +14,7 @@ class Example {}
 
 const example = lateinit<Example>()
 ```
+
+## Licence
+iamtakagi/lateinit is provided under the MIT license.
+
